@@ -82,7 +82,7 @@ __Python scripting, Data Collection, Streamlit, API integration, Data Management
 - **Streamlit App**: Sets up the Streamlit application layout and user interactions for data collection, storage, analysis, and visualization.
 
 Contact
-### LinkedIn:(https://www.linkedin.com/in/karthick-kumar-s-374160241/)
+### LinkedIn:https://www.linkedin.com/in/karthick-kumar-s-374160241/
 ### Email:skl.karthickkrish1996@gmail.com
-### Git:(https://github.com/skl-karthick)
+### Git:https://github.com/skl-karthick
 
